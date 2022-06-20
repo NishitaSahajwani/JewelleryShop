@@ -1,0 +1,16 @@
+.navbar {
+    background-color: transparent !important;
+  }
+  
+  .bgimg {
+    height:100vh  ;
+    background-image: url('../../Images/bg.jpg');
+    background-attachment :fixed;
+    background-position:top;
+    background-size: 100% 100%;
+  
+  }
+  .heading{
+    color:white;
+    text-align: end;
+  }
