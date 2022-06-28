@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "product" : "ring",
+       "price" : 2300,
+       "unit" : 2,
+       "quantity" : 1,
+       "tax" : 500,
+       "amount" : 3000
+    },
+    {
+      "id": 2,
+      "product" : "bracelet",
+       "price" : 2300,
+       "unit" : 2,
+       "quantity" : 1,
+       "tax" : 500,
+       "amount" : 3000
+    },
+    {
+      "id": 3,
+      "product" : "earrings",
+       "price" : 2300,
+       "unit" : 2,
+       "quantity" : 1,
+       "tax" : 500,
+       "amount" : 3000
+    }
+  ]

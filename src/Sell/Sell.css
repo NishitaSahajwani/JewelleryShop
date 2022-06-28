@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap');
+
+.main-div{
+    font-family: 'Assistant', sans-serif;
+}
+.heading{
+    color :rgb(68, 68, 125);
+}
+.input-field{
+    border-radius: 7px;
+    padding: 10px;
+    /* box-shadow: 2px 2px 9px 1px gray; */
+    border: 1px solid gray;
+}
+
+
